@@ -7,11 +7,12 @@
 Identificar cuáles son los productos del menú que han tenido más éxito y cuáles son los que menos han gustado a los clientes.
 
 ## Resultados
--El mayor número de transacciones se encuentra dentro de la categoría de ropa tanto para el género femenino y masculino.
+-De sus 32 opciones de productos, los 3 productos más vendidos son los siguientes.
 
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/7b90b22e-3aa0-4908-97eb-79d095e31471">
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/efae9ae2-e52a-4808-8ef9-b39969e4879b">
 
--La categoría de belleza representa el menor número de transacciones/ventas.
+Considero que las estrategias de ventas deben enfocarse en mantener a las hamburguesas como el No. 1 y y una estrategia para aumentar las ventas del Korean Beef Bowl.
 
--El género femenino representa un porcentaje minimamente mayor en el total de ventas.
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/9c4324b4-c44f-459c-a217-a9ea377df00b">
+-La categoría de su menú con mayores ventas es la Asiatica, es probable que sea necesario incluir más productos en esta categoría que es muy atrativa entre los clientes.
+
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/125b4763-5575-40c4-be8f-af6c03067555">
