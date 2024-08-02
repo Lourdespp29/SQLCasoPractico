@@ -19,4 +19,5 @@ Considero que las estrategias de ventas deben enfocarse en mantener a las hambur
 
 -Los horarios con mayores ventas han sido
 HORAS	Cuenta de order_id
+
 ![image](https://github.com/user-attachments/assets/545e6065-7b12-40bd-8afa-c0cc7f90ccd8)
