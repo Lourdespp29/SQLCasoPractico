@@ -1,4 +1,4 @@
-# Caso Práctico Análisis de Datos nuevo Menú del restaurante "Sabores del Mundo"
+# Caso Práctico Análisis de Datos Menú del restaurante "Sabores del Mundo"
 
 ## Contexto
 "Sabores del Mundo" lanzó un nuevo menú a principios de año y ha estado recopilando información detallada sobre las transacciones de los clientes para identificar áreas de oportunidad y aprovechar al máximo sus datos para optimizar las ventas.
